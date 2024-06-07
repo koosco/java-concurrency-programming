@@ -2,6 +2,11 @@ package chapter01.exam01;
 
 import java.util.ArrayList;
 
+/**
+ * cpu 개수만큼 task를 수행하면 cpu가 동시에 작업을 수행하기 때문에 500ms만큼의 수행 시간이 발생한다
+ * cpu 개수 + 1 or cpu 개수 x 2만큼의 task를 주게 되면 500ms x 2만큼의 수행 시간이 걸리게 된다
+ * 이것을 통해 parallelStream을 사용할 때 cpu 코어 수만큼의 task를 한 번에 수행함을 알 수 있다
+ */
 public class ConcurrencyExample {
     public static void main(String[] args) {
         int cpuCores = Runtime.getRuntime().availableProcessors();
