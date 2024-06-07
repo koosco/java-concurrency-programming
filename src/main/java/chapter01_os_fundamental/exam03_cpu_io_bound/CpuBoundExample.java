@@ -1,4 +1,4 @@
-package chapter01.exam03;
+package chapter01_os_fundamental.exam03_cpu_io_bound;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package chapter01.exam01;
+package chapter01_os_fundamental.exam01_concurrency_and_parallelism;
 
 import java.util.ArrayList;
 

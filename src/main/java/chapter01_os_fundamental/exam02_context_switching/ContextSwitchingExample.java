@@ -1,4 +1,4 @@
-package chapter01.exam02;
+package chapter01_os_fundamental.exam02_context_switching;
 
 public class ContextSwitchingExample {
     public static void main(String[] args) {
