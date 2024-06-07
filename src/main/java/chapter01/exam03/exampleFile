@@ -1,0 +1,187 @@
+{
+  "took" : 88,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 1,
+    "successful" : 1,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 0,
+      "relation" : "eq"
+    },
+    "max_score" : null,
+    "hits" : [ ]
+  }
+}
+{
+  "took" : 29,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 1,
+    "successful" : 1,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 10000,
+      "relation" : "gte"
+    },
+    "max_score" : 1.0,
+    "hits" : [
+      {
+        "_index" : "item",
+        "_type" : "_doc",
+        "_id" : "1",
+        "_score" : 1.0,
+        "_source" : {
+          "item_id" : 1,
+          "item_name" : "\"스초생\" 스트로베리 초콜릿 생크림",
+          "item_price" : 37000,
+          "item_image_url" : "https://img1.kakaocdn.net/thumb/C320x320@2x.fwebp.q82/?fname=https%3A%2F%2Fst.kakaocdn.net%2Fproduct%2Fgift%2Fproduct%2F20240521111918_e61234827ebf4829b57473756a99bb4a.jpg",
+          "brand_name" : "투썸플레이스",
+          "category" : "교환권",
+          "option_name" : ""
+        }
+      },
+      {
+        "_index" : "item",
+        "_type" : "_doc",
+        "_id" : "2",
+        "_score" : 1.0,
+        "_source" : {
+          "item_id" : 2,
+          "item_name" : "\"오늘 하루 즐겁게\" 떠먹는 스트로베리 초콜릿 생크림 + 아메리카노 (R) 2잔",
+          "item_price" : 15700,
+          "item_image_url" : "https://img1.kakaocdn.net/thumb/C320x320@2x.fwebp.q82/?fname=https%3A%2F%2Fst.kakaocdn.net%2Fproduct%2Fgift%2Fproduct%2F20240408145659_c35dc9bb8df84d8f91a185fe6374c42d.jpg",
+          "brand_name" : "투썸플레이스",
+          "category" : "교환권",
+          "option_name" : ""
+        }
+      },
+      {
+        "_index" : "item",
+        "_type" : "_doc",
+        "_id" : "3",
+        "_score" : 1.0,
+        "_source" : {
+          "item_id" : 3,
+          "item_name" : "시그니처 생딸기 우유생크림케이크",
+          "item_price" : 33000,
+          "item_image_url" : "https://img1.kakaocdn.net/thumb/C320x320@2x.fwebp.q82/?fname=https%3A%2F%2Fst.kakaocdn.net%2Fproduct%2Fgift%2Fproduct%2F20230201162647_9d2141090c714b4d9fee0ca6e578b205.jpg",
+          "brand_name" : "파리바게뜨",
+          "category" : "교환권",
+          "option_name" : ""
+        }
+      },
+      {
+        "_index" : "item",
+        "_type" : "_doc",
+        "_id" : "4",
+        "_score" : 1.0,
+        "_source" : {
+          "item_id" : 4,
+          "item_name" : "마이넘버원 케이크(배달가능)",
+          "item_price" : 33000,
+          "item_image_url" : "https://img1.kakaocdn.net/thumb/C320x320@2x.fwebp.q82/?fname=https%3A%2F%2Fst.kakaocdn.net%2Fproduct%2Fgift%2Fproduct%2F20240514173325_2755e301defe46f5a0fd987c92a96066.jpg",
+          "brand_name" : "파리바게뜨",
+          "category" : "교환권",
+          "option_name" : ""
+        }
+      },
+      {
+        "_index" : "item",
+        "_type" : "_doc",
+        "_id" : "5",
+        "_score" : 1.0,
+        "_source" : {
+          "item_id" : 5,
+          "item_name" : "\"달콤한 우리\" 떠먹는 아이스박스 + 아메리카노 (R) 2잔",
+          "item_price" : 15500,
+          "item_image_url" : "https://img1.kakaocdn.net/thumb/C320x320@2x.fwebp.q82/?fname=https%3A%2F%2Fst.kakaocdn.net%2Fproduct%2Fgift%2Fproduct%2F20240408144958_41a0664e648b445ea9481b6447b2a8fa.jpg",
+          "brand_name" : "투썸플레이스",
+          "category" : "교환권",
+          "option_name" : ""
+        }
+      },
+      {
+        "_index" : "item",
+        "_type" : "_doc",
+        "_id" : "6",
+        "_score" : 1.0,
+        "_source" : {
+          "item_id" : 6,
+          "item_name" : "모바일 금액권 3만원권",
+          "item_price" : 30000,
+          "item_image_url" : "https://img1.kakaocdn.net/thumb/C320x320@2x.fwebp.q82/?fname=https%3A%2F%2Fst.kakaocdn.net%2Fproduct%2Fgift%2Fproduct%2F20240426151212_26b2957f23cf429393a39d61eff57339.jpg",
+          "brand_name" : "파리바게뜨",
+          "category" : "교환권",
+          "option_name" : ""
+        }
+      },
+      {
+        "_index" : "item",
+        "_type" : "_doc",
+        "_id" : "7",
+        "_score" : 1.0,
+        "_source" : {
+          "item_id" : 7,
+          "item_name" : "떠먹는 아박",
+          "item_price" : 6500,
+          "item_image_url" : "https://img1.kakaocdn.net/thumb/C320x320@2x.fwebp.q82/?fname=https%3A%2F%2Fst.kakaocdn.net%2Fproduct%2Fgift%2Fproduct%2F20220228135836_41ef8019002b4e488abfb0c14030fa2e.jpg",
+          "brand_name" : "투썸플레이스",
+          "category" : "교환권",
+          "option_name" : ""
+        }
+      },
+      {
+        "_index" : "item",
+        "_type" : "_doc",
+        "_id" : "8",
+        "_score" : 1.0,
+        "_source" : {
+          "item_id" : 8,
+          "item_name" : "모바일 금액권 5만원권",
+          "item_price" : 50000,
+          "item_image_url" : "https://img1.kakaocdn.net/thumb/C320x320@2x.fwebp.q82/?fname=https%3A%2F%2Fst.kakaocdn.net%2Fproduct%2Fgift%2Fproduct%2F20240426151224_596bb3f91e9245e48038a94b231d75fc.jpg",
+          "brand_name" : "파리바게뜨",
+          "category" : "교환권",
+          "option_name" : ""
+        }
+      },
+      {
+        "_index" : "item",
+        "_type" : "_doc",
+        "_id" : "9",
+        "_score" : 1.0,
+        "_source" : {
+          "item_id" : 9,
+          "item_name" : "\"덥거나 망고나\" 애플망고 빙수 + 아메리카노 (R) 2잔",
+          "item_price" : 23000,
+          "item_image_url" : "https://img1.kakaocdn.net/thumb/C320x320@2x.fwebp.q82/?fname=https%3A%2F%2Fst.kakaocdn.net%2Fproduct%2Fgift%2Fproduct%2F20240528154243_ce80237207fc44e19a40c024d0229bc8.jpg",
+          "brand_name" : "투썸플레이스",
+          "category" : "교환권",
+          "option_name" : ""
+        }
+      },
+      {
+        "_index" : "item",
+        "_type" : "_doc",
+        "_id" : "10",
+        "_score" : 1.0,
+        "_source" : {
+          "item_id" : 10,
+          "item_name" : "\"달콤한 오늘\" 떠먹는 아박 + 아메리카노 (R)",
+          "item_price" : 11000,
+          "item_image_url" : "https://img1.kakaocdn.net/thumb/C320x320@2x.fwebp.q82/?fname=https%3A%2F%2Fst.kakaocdn.net%2Fproduct%2Fgift%2Fproduct%2F20240408145723_06d3ef78f5e84c52945c6bde5d05d410.jpg",
+          "brand_name" : "투썸플레이스",
+          "category" : "교환권",
+          "option_name" : ""
+        }
+      }
+    ]
+  }
+}
