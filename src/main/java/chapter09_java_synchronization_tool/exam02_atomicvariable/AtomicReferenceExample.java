@@ -1,4 +1,4 @@
-package chapter08_java_synchronization_tool.exam02_atomicvariable;
+package chapter09_java_synchronization_tool.exam02_atomicvariable;
 
 import java.util.concurrent.atomic.AtomicReference;
 

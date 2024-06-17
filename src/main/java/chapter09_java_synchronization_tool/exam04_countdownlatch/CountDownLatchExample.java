@@ -1,4 +1,4 @@
-package chapter08_java_synchronization_tool.exam04_countdownlatch;
+package chapter09_java_synchronization_tool.exam04_countdownlatch;
 
 import java.util.concurrent.CountDownLatch;
 

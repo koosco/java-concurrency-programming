@@ -1,4 +1,4 @@
-package chapter08_java_synchronization_tool.exam03_atomicfieldupdater;
+package chapter09_java_synchronization_tool.exam03_atomicfieldupdater;
 
 import java.util.concurrent.atomic.AtomicIntegerFieldUpdater;
 import java.util.concurrent.atomic.AtomicReferenceFieldUpdater;

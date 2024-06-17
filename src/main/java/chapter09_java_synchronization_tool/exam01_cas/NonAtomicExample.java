@@ -1,4 +1,4 @@
-package chapter08_java_synchronization_tool.exam01_cas;
+package chapter09_java_synchronization_tool.exam01_cas;
 
 public class NonAtomicExample {
 
